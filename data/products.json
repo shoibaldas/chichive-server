@@ -35,112 +35,112 @@
       "_id": "6430117840599c8026830028",
       "category_id":"02",
       "price": "$2,653.30",
-      "picture": "http://placehold.it/32x32",
-      "title": "Annette Mccarthy",
+      "picture": "https://i.ibb.co/c13qF16/street1.jpg",
+      "title": "Supreme",
       "category": "Streetwear"
     },
     {
       "_id": "643011788ad9c2a3d47bcf30",
       "category_id":"02",
       "price": "$2,526.39",
-      "picture": "http://placehold.it/32x32",
-      "title": "Wade Snider",
+      "picture": "https://i.ibb.co/YXdpd54/street2.jpg",
+      "title": "Off-White",
       "category": "Streetwear"
     },
     {
       "_id": "6430117805ff03d4b4f3347d",
       "category_id":"02",
       "price": "$1,755.63",
-      "picture": "http://placehold.it/32x32",
-      "title": "Young Oliver",
+      "picture": "https://i.ibb.co/sKfnFL4/street3.jpg",
+      "title": "BAPE (A Bathing Ape)",
       "category": "Streetwear"
     },
     {
       "_id": "643011784493ccae1c74ff07",
       "category_id":"03",
       "price": "$2,097.87",
-      "picture": "http://placehold.it/32x32",
-      "title": "Maura Warren",
+      "picture": "https://i.ibb.co/XVjnhJ8/retro1.jpg",
+      "title": "Chanel",
       "category": "Retro"
     },
     {
       "_id": "64301178a54536721c6b18a1",
       "category_id":"03",
       "price": "$1,189.97",
-      "picture": "http://placehold.it/32x32",
-      "title": "Ferguson Maldonado",
+      "picture": "https://i.ibb.co/pLH7jzR/retro2.jpg",
+      "title": "Christian Dior",
       "category": "Retro"
     },
     {
       "_id": "64301178d419bd726489039c",
       "category_id":"03",
       "price": "$2,855.71",
-      "picture": "http://placehold.it/32x32",
-      "title": "Kitty Carrillo",
+      "picture": "https://i.ibb.co/4d1jL57/retro3.jpg",
+      "title": "Yves Saint Laurent (YSL)",
       "category": "Retro"
     },
     {
       "_id": "64301178dd9e02fa4dd66fe3",
       "category_id":"04",
       "price": "$2,173.32",
-      "picture": "http://placehold.it/32x32",
-      "title": "Deloris Farley",
+      "picture": "https://i.ibb.co/j8krhp3/vintage1.jpg",
+      "title": "Beyond Retro",
       "category": "Vintage"
     },
     {
       "_id": "64301178d625e1ef146d6a26",
       "category_id":"04",
       "price": "$1,199.47",
-      "picture": "http://placehold.it/32x32",
-      "title": "Jimenez Blackburn",
+      "picture": "https://i.ibb.co/BwbLGcF/vintage2.jpg",
+      "title": "Moschino",
       "category": "Vintage"
     },
     {
       "_id": "643011786b865f737257068b",
       "category_id":"05",
       "price": "$2,595.91",
-      "picture": "http://placehold.it/32x32",
-      "title": "Natalie Hale",
+      "picture": "https://i.ibb.co/1QXRLTN/casual1.jpg",
+      "title": "Madewell",
       "category": "Casual"
     },
     {
       "_id": "643011780fefcf63892535d9",
       "category_id":"05",
       "price": "$2,008.42",
-      "picture": "http://placehold.it/32x32",
-      "title": "Hendrix Greer",
+      "picture": "https://i.ibb.co/bJQgR75/casual2.jpg",
+      "title": "Everlane",
       "category": "Casual"
     },
     {
       "_id": "64301178dbef80dc640560bc",
       "category_id":"05",
       "price": "$1,042.93",
-      "picture": "http://placehold.it/32x32",
-      "title": "Latoya Rice",
+      "picture": "https://i.ibb.co/sjTjdNY/casual3.jpg",
+      "title": "Patagonia",
       "category": "Casual"
     },
     {
       "_id": "64301178db88e2e9aeef46fc",
       "category_id":"06",
       "price": "$2,548.61",
-      "picture": "http://placehold.it/32x32",
-      "title": "Spencer Pierce",
+      "picture": "https://i.ibb.co/PgdFVdM/parsian1.jpg",
+      "title": "Sandro",
       "category": "Parisian"
     },
     {
       "_id": "64304972871d85e5c53c54af",
       "category_id":"06",
       "price": "$1,848.74",
-      "picture": "http://placehold.it/32x32",
-      "title": "Janet Rocha",
+      "picture": "https://i.ibb.co/R739DnK/parsian2.jpg",
+      "title": "Maje",
       "category": "Parisian"
     },
     {
       "_id": "643049724018c0fd45069fe2",
       "category_id":"06",
       "price": "$1,916.93",
-      "picture": "http://placehold.it/32x32",
-      "title": "Elisa Henderson",
+      "picture": "https://i.ibb.co/zrTqVDH/parsian3.jpg",
+      "title": "Sézane",
       "category": "Parisian"
     }
   ]
