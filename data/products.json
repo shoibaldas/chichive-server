@@ -1,92 +1,146 @@
 [
     {
       "_id": "643011788f139b65afcd9209",
+      "category_id":"01",
       "price": "$1,565.34",
-      "picture": "http://placehold.it/32x32",
-      "title": "Blanche Rios"
+      "picture": "https://i.ibb.co/xq1VKTt/classic1.jpg",
+      "title": "Overcoat",
+      "category": "Classic"
+    },
+    {
+      "_id": "64304972adca96e2c52feda2",
+      "category_id":"01",
+      "price": "$1,705.58",
+      "picture": "https://i.ibb.co/hKRTqbZ/classic2.jpg",
+      "title": "Kaia Blazer",
+      "category": "Classic"
     },
     {
       "_id": "64301178cfab4fddb0ae00c8",
+      "category_id":"01",
       "price": "$3,656.41",
-      "picture": "http://placehold.it/32x32",
-      "title": "Baker Knapp"
+      "picture": "https://i.ibb.co/CBYYT5Q/classic3.jpg",
+      "title": "Classic Jacket",
+      "category": "Classic"
     },
     {
       "_id": "6430117825ae70b9c99e1e49",
+      "category_id":"01",
       "price": "$1,817.49",
-      "picture": "http://placehold.it/32x32",
-      "title": "Dianna Noble"
+      "picture": "https://i.ibb.co/1GMm6K9/classic-4.jpg",
+      "title": "Faux Leather Dad Bomber Jacket",
+      "category": "Classic"
     },
     {
       "_id": "6430117840599c8026830028",
+      "category_id":"02",
       "price": "$2,653.30",
       "picture": "http://placehold.it/32x32",
-      "title": "Annette Mccarthy"
+      "title": "Annette Mccarthy",
+      "category": "Streetwear"
     },
     {
       "_id": "643011788ad9c2a3d47bcf30",
+      "category_id":"02",
       "price": "$2,526.39",
       "picture": "http://placehold.it/32x32",
-      "title": "Wade Snider"
+      "title": "Wade Snider",
+      "category": "Streetwear"
     },
     {
       "_id": "6430117805ff03d4b4f3347d",
+      "category_id":"02",
       "price": "$1,755.63",
       "picture": "http://placehold.it/32x32",
-      "title": "Young Oliver"
+      "title": "Young Oliver",
+      "category": "Streetwear"
     },
     {
       "_id": "643011784493ccae1c74ff07",
+      "category_id":"03",
       "price": "$2,097.87",
       "picture": "http://placehold.it/32x32",
-      "title": "Maura Warren"
+      "title": "Maura Warren",
+      "category": "Retro"
     },
     {
       "_id": "64301178a54536721c6b18a1",
+      "category_id":"03",
       "price": "$1,189.97",
       "picture": "http://placehold.it/32x32",
-      "title": "Ferguson Maldonado"
+      "title": "Ferguson Maldonado",
+      "category": "Retro"
     },
     {
       "_id": "64301178d419bd726489039c",
+      "category_id":"03",
       "price": "$2,855.71",
       "picture": "http://placehold.it/32x32",
-      "title": "Kitty Carrillo"
+      "title": "Kitty Carrillo",
+      "category": "Retro"
     },
     {
       "_id": "64301178dd9e02fa4dd66fe3",
+      "category_id":"04",
       "price": "$2,173.32",
       "picture": "http://placehold.it/32x32",
-      "title": "Deloris Farley"
+      "title": "Deloris Farley",
+      "category": "Vintage"
     },
     {
       "_id": "64301178d625e1ef146d6a26",
+      "category_id":"04",
       "price": "$1,199.47",
       "picture": "http://placehold.it/32x32",
-      "title": "Jimenez Blackburn"
+      "title": "Jimenez Blackburn",
+      "category": "Vintage"
     },
     {
       "_id": "643011786b865f737257068b",
+      "category_id":"05",
       "price": "$2,595.91",
       "picture": "http://placehold.it/32x32",
-      "title": "Natalie Hale"
+      "title": "Natalie Hale",
+      "category": "Casual"
     },
     {
       "_id": "643011780fefcf63892535d9",
+      "category_id":"05",
       "price": "$2,008.42",
       "picture": "http://placehold.it/32x32",
-      "title": "Hendrix Greer"
+      "title": "Hendrix Greer",
+      "category": "Casual"
     },
     {
       "_id": "64301178dbef80dc640560bc",
+      "category_id":"05",
       "price": "$1,042.93",
       "picture": "http://placehold.it/32x32",
-      "title": "Latoya Rice"
+      "title": "Latoya Rice",
+      "category": "Casual"
     },
     {
       "_id": "64301178db88e2e9aeef46fc",
+      "category_id":"06",
       "price": "$2,548.61",
       "picture": "http://placehold.it/32x32",
-      "title": "Spencer Pierce"
+      "title": "Spencer Pierce",
+      "category": "Parisian"
+    },
+    {
+      "_id": "64304972871d85e5c53c54af",
+      "category_id":"06",
+      "price": "$1,848.74",
+      "picture": "http://placehold.it/32x32",
+      "title": "Janet Rocha",
+      "category": "Parisian"
+    },
+    {
+      "_id": "643049724018c0fd45069fe2",
+      "category_id":"06",
+      "price": "$1,916.93",
+      "picture": "http://placehold.it/32x32",
+      "title": "Elisa Henderson",
+      "category": "Parisian"
     }
   ]

@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "01",
+        "name": "Classic"
+    },
+    {
+        "_id": "02",
+        "name": "Streetwear"
+    },
+    {
+        "_id": "03",
+        "name": "Retro"
+    },
+    {
+        "_id": "04",
+        "name": "Vintage"
+    },
+    {
+        "_id": "05",
+        "name": "Casual"
+    },
+    {
+        "_id": "06",
+        "name": "Parisian"
+    }
+]
