@@ -26,6 +26,12 @@ app.get('/categories/:id', (req, res) => {
     res.send(getProduct);
 });
 
+app.get('/booking/product/:id', (req, res) => {
+    const id = req.params.id;
+    const getBook = products.find(n => n._id === id);
+    res.send(getBook);
+});
+
 app.listen(port, () => {
     console.log("Chichive Server is Running...", port);
 })
